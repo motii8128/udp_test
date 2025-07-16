@@ -1,0 +1,8 @@
+[package]
+name = "udp_test"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rust_udp_utility = {git = "https://github.com/motii8128/rust_udp_utility"}
+gamepad_utility = {git = "https://github.com/motii8128/gamepad_utility.git"}
